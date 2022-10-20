@@ -1,1 +1,1 @@
-# -laughing-cow
+laughing-cow
